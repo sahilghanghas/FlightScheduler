@@ -1,5 +1,3 @@
-package set09;
-
 //A RacketList<E> is an object of any class that implements RacketList<E>.
 //
 //Interpretation: A RacketList<E> represents an immutable
