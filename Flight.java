@@ -1,5 +1,3 @@
-package set09;
-
 //A Flight is an object of any class that implements Flight.
 //
 //Interpretation: A Flight represents an airline flight that
