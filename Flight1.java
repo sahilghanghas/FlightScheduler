@@ -1,5 +1,3 @@
-package set09;
-
 /*
  * Flight1 implements the methods of the Flight
  */
