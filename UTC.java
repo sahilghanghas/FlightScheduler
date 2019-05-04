@@ -1,5 +1,3 @@
-package set09;
-
 //A UTC is an object of any class that implements UTC.
 //
 //Interpretation: A UTC represents a Universal Coordinated Time.
