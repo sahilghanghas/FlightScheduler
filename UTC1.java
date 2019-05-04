@@ -1,5 +1,3 @@
-package set09;
-
 /*
  * UTC1 implements the methods of the UTC
  */
