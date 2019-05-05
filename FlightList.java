@@ -1,4 +1,3 @@
-package set09;
 import java.util.*;
 
 // Flight class is used for equating itineraries
