@@ -1,5 +1,3 @@
-package set09;
-
 // creates an object of RacketLists
 public class RacketLists {
 	
