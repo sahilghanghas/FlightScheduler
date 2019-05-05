@@ -1,5 +1,3 @@
-package set09;
-
 public class Flights {
 	
     String s;
