@@ -1,5 +1,3 @@
-package set09;
-
 import java.util.LinkedList;
 import java.util.*;
 import java.lang.Comparable;
