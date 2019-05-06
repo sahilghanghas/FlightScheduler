@@ -1,5 +1,3 @@
-package set09;
-
 // test's the UTCs file
 public class UTCsTests {
 	public static void main (String[] args) {
