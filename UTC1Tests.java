@@ -1,6 +1,3 @@
-package set09;
-
-
 // test's the UTC1 file
 public class UTC1Tests {
 	
