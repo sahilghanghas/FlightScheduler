@@ -1,5 +1,3 @@
-package set09;
-
 public class FlightsTests {
 	
 	public static void main (String[] args){
