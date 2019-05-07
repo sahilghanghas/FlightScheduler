@@ -1,5 +1,3 @@
-package set09;
-
 //tests the RacketList1 file
 public class RacketList1Tests {
 	
