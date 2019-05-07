@@ -1,5 +1,3 @@
-package set09;
-
 public class RacketListsTests {
 
 	public static void main(String[] args) {
