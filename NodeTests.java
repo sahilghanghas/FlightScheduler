@@ -1,5 +1,3 @@
-package set09;
-
 import java.util.LinkedList;
 
 // test's the Node file
