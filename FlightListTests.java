@@ -1,5 +1,3 @@
-package set09;
-
 // test's the FLightList
 public class FlightListTests {
 	
