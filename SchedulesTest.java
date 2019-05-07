@@ -1,5 +1,3 @@
-package set09;
-
 import java.util.ArrayList;
 import java.util.Collection;
 import java.util.Hashtable;
